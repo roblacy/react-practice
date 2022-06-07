@@ -38,6 +38,7 @@ function App() {
 
   return (
     <div className="App">
+      <h3>React Practice</h3>
       <br />
       <button onClick={addGreeting}>{addText}</button>
       <br /><br />
